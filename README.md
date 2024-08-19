@@ -49,7 +49,7 @@ Rakenduse testimiseks kasutasin järgmisi meetodeid:
 
 - **Google Lighthouse**: Kiire ja ülevaatlik testimismeetod rakenduse jõudluse, kasutajasõbralikkuse ja muude oluliste aspektide hindamiseks.
 - **WebPageTest**: Täiendav testimiskeskkond rakenduse jõudluse ja kasutajasõbralikkuse hindamiseks.
-- **Verceli Testimisvahendid**: Plaanin tulevikus katsetada Verceli poolt pakutavaid testimisvahendeid nagu ViTest, Jest, Playwright ja Cypress.
+- **Verceli Testimisvahendid**: Plaanin tulevikus katsetada Verceli poolt soovitatavaid testimisvahendeid nagu ViTest, Jest, Playwright ja Cypress kui ka Verceli enda Speed Insights võimekust.
 
 ## Ohud ja Riskid
 
