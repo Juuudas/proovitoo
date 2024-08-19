@@ -31,7 +31,7 @@ const MessageItem = ({message, handleDelete}: MessageItemProps) => {
             </div>
             {/* Sõnumi sisu */}
             <div
-                className="flex items-start gap-1.5 pb-3 pl-16 mt-2 justify-between w-full bg-white bg-opacity-80 p-4 rounded-lg shadow-md relative z-0 overflow-hidden">
+                className="flex mb-1.5 items-start gap-1.5 pb-3 pl-16 mt-2 justify-between w-full bg-white bg-opacity-80 p-4 rounded-lg shadow-md relative z-0 overflow-hidden">
                 <div className="flex-1 overflow-auto">
                     {/* Renderdame sõnumi kasutades Markdowni */}
                     <ReactMarkdown className="w-full text-gray-800 break-words">
