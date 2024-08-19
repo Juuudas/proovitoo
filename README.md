@@ -23,6 +23,7 @@ Rakenduse kasutajasõbralikkus on tagatud järgmiste meetmetega:
 - **Lihtne ja intuitiivne kasutajaliides**: Kasutajatel on võimalik saata sõnumeid, lisada faile ning saada manustatud failidest ülevaade.
 - **Mugav sõnumite saatmine**: Sõnumite saatmine toimub nii Enteri vajutamisel kui ka "Saada" nupule klikkides. Samuti on võimalik kasutada `Shift + Enter` klahvikombinatsiooni, et lisada tekstiväljale reavahetus.
 - **Kohandatavus**: Lihtne disain ja funktsionaalsus muudavad kasutajaliidese kergesti kohandatavaks erinevatele kasutajate vajadustele.
+- **Markdown**: Sõnumid väljastatakse kasutajale kasutades Markdowni, mis muudab näiteks koodiplokid loetavamaks ning eristab need muust tekstist. 
 
 ## Värviskeem ja Tüpograafia
 
